@@ -1,17 +1,13 @@
 ### boas vindas ao meu perfil 
 
+Meu nome é **jasmim Bonfim** 🦋🌠
 
+- Estou estudando no [Alura] (htpps://www.alura.com.br)
+- Estou desenvolvendo a linguagem javascript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
+-  ### Você pode entrar em contato comigo pelo email
 
-- 👋 Hi, I’m @mimi1237jb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  irineu.jasmim@escola.pr.gov.br
 
-<!---
-mimi1237jb/mimi1237jb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://tenor.com/pt-BR/view/baby-annoyed-disappointed-angry-upset-gif-17333851)
